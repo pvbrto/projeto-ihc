@@ -4,9 +4,10 @@ Projeto apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), 
 
 Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Título do TCC** sob orientação do Professor **Nome do Orientador** e desenvolvido pelos seguintes alunos:
 
-- Nome Componente 1
-- Nome Componente 2
-- Nome Componente 3
+- Gianluca Mariano Sobreiro - 22.122.011-4
+- Guilherme Fornagiero de Carvalho - 22.122.016-3
+- Paulo Vinícius Bessa de Brito - 22.122.005-6
+- Pedro Augusto Bento Rocha - 22.122.028-8
 
 ## Resumo
 

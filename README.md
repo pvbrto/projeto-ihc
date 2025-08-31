@@ -8,6 +8,7 @@ Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **IDE
 - Guilherme Fornagiero de Carvalho - 22.122.016-3
 - Paulo Vinícius Bessa de Brito - 22.122.005-6
 - Pedro Augusto Bento Rocha - 22.122.028-8
+- Thiago Garcia Santana - 22.122.003-1
 
 ## Resumo
 
@@ -37,8 +38,10 @@ A idealização do projeto (somente o sistema distribuído em larga escala, e a 
 
 ## Publico Alvo
 
-- Determine qual o grupo específico de pessoas ou organizações para as quais este produto ou serviço é direcionado.
-- Descreva as caracteristicas demográficas, comportamentais, psicográficas ou geográficas deste público alvo que o torna mais propenso a se interessar pelo que está sendo oferecido neste projeto ou serviço.
+O projeto é direcionado principalmente para organizações de transporte público urbano (nesse caso, especificamente o Metrô de São Paulo). Foi feita uma análise de expansão do projeto, e ele também pode alcançar como público alvo grandes centros movimentados (como shoppings, ou centros automotivos), pois criaria uma base de dados de fluxo baseado nas câmeras espalhadas pelo ambiente, e facilitaria a otimização da alocação de recursos operacionais, baseado na análise desses dados, similar ao Metrô.
+
+Características do público-alvo:
+- ADICIONAR CARACTERÍSTICAS
 
 ## Análise de concorrência
 

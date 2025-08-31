@@ -2,7 +2,7 @@
 
 Projeto apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Interface Humano-Computador (CC8122) do curso de Ciencia da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](https://github.com/fagnerpimentel) e Prof. Dr. Plino Thomaz Aquino Junior.
 
-Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Título do TCC** sob orientação do Professor **Nome do Orientador** e desenvolvido pelos seguintes alunos:
+Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **IDENTIFICAÇÃO E REIDENTIFICAÇÃO CONTÍNUA DE PESSOAS EM AMBIENTES DE TRÁFEGO INTENSO UTILIZANDO ALGORITMOS DE VISÃO COMPUTACIONAL** sob orientação do Professor **Prof. Dr. Ricardo de Carvalho Destro** e desenvolvido pelos seguintes alunos:
 
 - Gianluca Mariano Sobreiro - 22.122.011-4
 - Guilherme Fornagiero de Carvalho - 22.122.016-3
@@ -15,14 +15,25 @@ Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Tí
 ## Introdução
 
 Sobre o produto ou serviço que seu grupo está desenvolvendo, responda:
-- Apresente uma breve descrição.
-- Apresente o objetivo. 
-- Apresente o usuário final.
-- Apresente os principais benefícios para o usuários.
-- Apresente as funcionalidades.
-- Apresente as tecnologias e ferramentas computacionais utilizadas.
-- Apresente o contexto de uso.
-- O produto ou serviço prevê o desenvolvimento de interface? (Sim/Não)
+O projeto consiste no desenvolvimento de um sistema distribuído de larga escala, focando na identificação e reidentificação contínua de pessoas em ambientes de tráfego intenso, com foco no Metrô de São Paulo e em sua necessidade de mapeamento de fluxos em suas estações. O sistema utiliza algoritmos de visão computacional e aprendizado de máquina para rastrear passageiros entre diferentes câmeras, mesmo em condições adversas como mudanças de iluminação, ângulos de filmagem e pequenas alterações na aparência. O objetivo principal é fornecer ao Metrô de São Paulo uma ferramenta capaz de monitorar o fluxo de passageiros, identificar indivíduos de forma contínua e precisa, e auxiliar na gestão operacional e segurança do transporte público. Além disso, focado na disciplina de Interface Humano-Computador, aumentamos o escopo do projeto, para trabalhar também com a análise dos dados capturados, e a geração de resultados a partir destes.
+
+Usuário final: Companhia do Metropolitano de São Paulo (Metrô-SP) equipes de segurança e de gestão operacional do sistema metroviário.
+
+Baseado em uma geração de base de dados diária/semanal do fluxo de pessoas que passam pelas estações do Metrô de São Paulo, e o envio/análise desses dados, podemos ter a otimização da alocação de recursos operacionais (trens, funcionários, segurança) pela diretoria do Metrô, focada em melhorar a experiência do usuário final (o passageiro). Além disso, o aumento da segurança, com possibilidade de detectar indivíduos específicos (como vendedores ambulantes ilegais) e um melhor mapeamento de rotas para os passageiros, permitindo decisões estratégicas baseadas nesse dados.
+
+Funcionalidades:
+- Captura de imagens em tempo real por câmeras instaladas nas estações.
+- Detecção e reconhecimento facial de pessoas préviamente detectadas.
+- Armazenamento temporário e sincronização diária de dados em banco central (que servirá de base de dados para o Metrô).
+- Análise dos dados capturados e geração de resultados.
+
+Tecnologias utilizadas:
+- ADICIONAR TECNOLOGIAS
+
+Contexto de uso:
+- ADICIONAR CONTEXTO DE USO
+
+A idealização do projeto (somente o sistema distribuído em larga escala, e a geração de dados para análise futura) não necessita de uma inteface, então inicialmente não prevemos o desenvolvimento de uma interface.
 
 ## Publico Alvo
 

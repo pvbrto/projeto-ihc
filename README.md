@@ -29,7 +29,11 @@ Funcionalidades:
 - Análise dos dados capturados e geração de resultados.
 
 Tecnologias utilizadas:
-- ADICIONAR TECNOLOGIAS
+- Backend: .NET 8.0, C#, FaceAISharp (biblioteca para reconhecimento facial)
+- Infraestrutura em Cloud: Amazon AWS, AWS EC2
+- Mensageria: AWS SQS
+- Banco de Dados: AWS RDS, MongoDB
+- Frontend (exclusivo para a disciplina): JavaScript, React JS
 
 Contexto de uso:
 - ADICIONAR CONTEXTO DE USO
